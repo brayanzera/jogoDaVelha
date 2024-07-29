@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author BrayanBatalhaSoares
+ * @author z0ne
  */
 public class JogoDaVelha {
 
